@@ -1,10 +1,11 @@
 import './App.css';
-import { Videos } from './components/videos/Videos';
+import Resume from './components/resume/Resume';
 
 function App() {
   return (
     <div className="App">
-      <Videos />
+
+      <Resume />
     </div>
   );
 }
